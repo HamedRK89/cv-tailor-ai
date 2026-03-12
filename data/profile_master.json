@@ -1,0 +1,129 @@
+{
+    "name": "Hamed Razavi Khosroshahi",
+    "title": "PhD Researcher in Computer Vision and AI",
+    "location": "Brussels, Belgium",
+    "email": "h.razavi89@gmail.com",
+    "linkedin": "your_linkedin_herehttps://www.linkedin.com/in/hamed-razavi-khosroshahi/",
+    "summary": {
+        "base": "PhD researcher in computer vision and AI with experience in machine learning, deep learning, neural rendering, 3D reconstruction, and scientific software development.",
+        "industry": "AI engineer and researcher with strong experience in Python, PyTorch, computer vision, deep learning, and 3D scene representation.",
+        "research": "PhD researcher specializing in neural rendering, NeRF, 3D reconstruction, and machine learning for visual computing."
+    },
+    "education": [
+        {
+            "degree": "PhD in Computer Vision and AI",
+            "institution": "Université Libre de Bruxelles",
+            "start_year": "2022",
+            "end_year": "Present",
+            "details": [
+                "Research on neural rendering, NeRF, 3D reconstruction, and deep learning."
+            ]
+        },
+        {
+            "degree": "Master's in Photonics",
+            "institution": "University of Tabriz",
+            "start_year": "",
+            "end_year": "",
+            "details": []
+        },
+        {
+            "degree": "Bachelor's in Electrical Engineering - Electronics",
+            "institution": "University of Tabriz",
+            "start_year": "",
+            "end_year": "",
+            "details": []
+        }
+    ],
+    "skills": {
+        "programming": [
+            "Python",
+            "C++",
+            "MATLAB"
+        ],
+        "ml_ai": [
+            "PyTorch",
+            "Deep Learning",
+            "Machine Learning",
+            "Computer Vision"
+        ],
+        "vision_3d": [
+            "NeRF",
+            "3D Reconstruction",
+            "Image Processing",
+            "Neural Rendering"
+        ],
+        "tools": [
+            "Git",
+            "LaTeX",
+            "Linux",
+            "CUDA"
+        ]
+    },
+    "experience": [
+        {
+            "role": "PhD Researcher",
+            "organization": "ULB",
+            "start": "2022",
+            "end": "Present",
+            "bullets": [
+                "Conduct research in computer vision, machine learning, and neural rendering.",
+                "Develop deep learning methods for 3D scene representation and reconstruction.",
+                "Implement and evaluate research pipelines in Python and PyTorch.",
+                "Write scientific papers, technical reports, and research deliverables."
+            ],
+            "tags": [
+                "research",
+                "computer vision",
+                "deep learning",
+                "python",
+                "pytorch",
+                "3d reconstruction",
+                "nerf"
+            ]
+        },
+        {
+            "role": "Engineer / Research and Development",
+            "organization": "Previous company or institute",
+            "start": "",
+            "end": "",
+            "bullets": [
+                "Worked on precision water and weather measurement systems.",
+                "Designed and developed sensing devices and engineering solutions.",
+                "Contributed to instrumentation, testing, and technical problem solving."
+            ],
+            "tags": [
+                "engineering",
+                "sensors",
+                "hardware",
+                "measurement",
+                "r&d"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "NeRF Research",
+            "bullets": [
+                "Worked on neural rendering and sparse-view 3D reconstruction.",
+                "Investigated robust scene representation methods under limited supervision."
+            ],
+            "tags": [
+                "nerf",
+                "computer vision",
+                "3d",
+                "deep learning"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "title": "Add your publication title here",
+            "year": "2025",
+            "tags": [
+                "computer vision",
+                "deep learning",
+                "research"
+            ]
+        }
+    ]
+}

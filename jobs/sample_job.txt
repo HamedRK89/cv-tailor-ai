@@ -1,0 +1,67 @@
+About the job
+Computer Vision Research & Development Engineer
+
+Ghent, Belgium
+
+Industry: Camera Development
+
+
+
+About the Company:
+
+We are partnering with an innovative technology company at the forefront of advanced camera development. Their multidisciplinary team combines physics, mathematics, and software engineering to solve complex real-world imaging challenges.
+
+
+They are currently developing a next-generation underwater camera system, designed to operate in highly challenging environments where visibility, light distortion, scattering, and noise significantly impact image quality. This is a highly research-driven role with strong real-world application.
+
+
+This role focuses on the research and development of advanced computer vision algorithms for an underwater imaging platform.
+
+
+You will work on building and optimizing algorithms that restore, reconstruct, and enhance underwater imagery using physically grounded models and mathematically rigorous approaches.
+
+
+Your Responsibilities:
+
+Design and implement advanced image restoration and enhancement algorithms
+Model the physics of image formation in underwater environments
+Solve complex inverse problems related to image reconstruction
+Develop mathematically robust solutions for degraded visual data
+Implement and optimize algorithms in C++ using OpenCV
+Collaborate with physicists, engineers, and hardware specialists
+Contribute to research publications and technical innovation where relevant
+
+
+Requirements:
+
+PhD in Computer Vision, Applied Physics, Applied Mathematics, Electrical Engineering, or related field (minimum requirement)
+Strong experience with classical computer vision stack
+C++
+OpenCV
+Deep knowledge of:
+Image restoration
+Inverse problems
+Mathematical modeling
+Physics-based image formation
+Strong understanding of optics and physical modeling
+Experience translating theoretical models into production-grade code
+
+
+Nice to Have:
+
+Industry experience in imaging systems or camera development
+Experience working on underwater or low-visibility imaging systems
+Publications in computer vision or computational imaging
+
+
+What’s on Offer:
+
+Work on a technically challenging, physics-driven project
+High research ownership and autonomy
+Collaborative, multidisciplinary team environment
+Opportunity to contribute to breakthrough imaging technology
+Competitive salary and benefits package
+Based in Ghent, Belgium — a growing European tech hub
+
+
+If interested, please apply directly. Feel free to share this with anyone in your network who you feel it may be relevant for. If you require further information, contact me on: joel.isaac@vividresourcing.com with any questions.
